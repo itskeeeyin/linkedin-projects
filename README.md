@@ -12,10 +12,10 @@ Assets and copy for Cian O Mahony’s LinkedIn Projects section (M6 flagships).
 | `guardrails.png` | Citation / abstain path |
 
 **Live demo:** https://runbook-copilot-c3shmapppprk7ktdashvyei.streamlit.app  
-**Repo:** https://github.com/cianlabs/runbook-copilot  
+**Repo:** https://github.com/itskeeeyin/runbook-copilot  
 **Eval:** 144/150 real-model (from 116/150) via copilot-evals
 
-Sources copied from `cianlabs/runbook-copilot` (`architecture.png`, `images/*`).
+Sources copied from `itskeeeyin/runbook-copilot` (`architecture.png`, `images/*`).
 
 ## escalation-triage-agent
 
@@ -30,5 +30,5 @@ Sources copied from `cianlabs/runbook-copilot` (`architecture.png`, `images/*`).
 | `ESC-2002-result.png` | Optional practice screenshot |
 
 **Live demo:** https://escalation-triage-agent-hjnwi7cnblzl4aptdnkuym.streamlit.app  
-**Repo:** https://github.com/cianlabs/escalation-triage-agent  
+**Repo:** https://github.com/itskeeeyin/escalation-triage-agent  
 **Practice eval:** 20/20 offline · **Public baseline:** 10/26 top-1 (reported honestly)
